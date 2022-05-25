@@ -2,7 +2,7 @@
 
 - 🪄 Hoje trabalho com Front-End e Design Gráfico
 - 📚 Estudando JavaScript e UX/UI 
-- 😄 Conhecimentos: HTML, CSS, pacote Adobe
+- 😄 Conhecimentos: HTML, CSS, JavaScript, Figma, Git e GitHub e pacote Adobe
 - 📫 bruna.fusiger@gmail.com
 
 <div align="center">
