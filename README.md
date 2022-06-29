@@ -1,7 +1,7 @@
 ### Hello! I'm Bruna Fusiger 👋
 
 - 🪄Today I work with Front-End and Graphic Design.
-- 📚 Studying JavaScript, Svelte and C#. 
+- 📚 Studying JavaScript and Vue js. 
 - 😄 Knowledge: HTML, CSS, JavaScript, Figma, Git & GitHub and Adobe package.
 - 📫 bruna.fusiger@gmail.com
 
