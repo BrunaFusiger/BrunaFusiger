@@ -2,7 +2,7 @@
 
 #### Front-end developer
 
-- Knowledge: Vue.js 3.0, Nuxt.js 3, Typescript, JavaScript, Scss, HTML5, CSS3, Figma, Git & GitHub, MongoDB, nodeJS and Adobe package.
+- Knowledge: Vue.js 3.0, Nuxt.js 3, Typescript, JavaScript, Scss, HTML5, CSS3, Figma, Git & GitHub, Tailwind, UnoCSS, Pinia and Adobe package.
 - bruna.fusiger@gmail.com
 
 <div align="center">
