@@ -2,7 +2,7 @@
 
 #### Front-end developer
 
-- Knowledge: Vue.js, Nuxt.js, Typescript, JavaScript, Scss, HTML5, CSS3, Figma, Git & GitHub, Tailwind, UnoCSS, Pinia, ESlint, i18n and Adobe package.
+- Knowledge: Vue.js, Nuxt.js, Astro, Three.js, Typescript, JavaScript, Scss, HTML5, CSS3, Figma, Git & GitHub, Tailwind, UnoCSS, Pinia, ESlint, i18n and Adobe package.
 - bruna.fusiger@gmail.com
 
 <div align="center">
