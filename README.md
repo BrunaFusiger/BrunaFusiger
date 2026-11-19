@@ -1,6 +1,6 @@
 # Hi, I'm Bruna 👋
 
-**Product Designer** based in Zurich, Switzerland. I design products end to end (Vue, Nuxt, TypeScript).
+**Design Engineer** based in Zurich, Switzerland. I design products end to end (Vue, Nuxt, TypeScript).
 
 - 🇨🇭 Co-founder of [Euvetia](https://euvetia.ch), a relocation platform for Brazilians with EU passports moving to Switzerland
 - 🎨 My portfolio [fusiger.ch](https://www.fusiger.ch) is designed and coded by me: [source lives here](https://github.com/BrunaFusiger/portfolio)
