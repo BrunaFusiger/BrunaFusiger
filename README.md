@@ -6,6 +6,4 @@
 - 🎨 My portfolio [fusiger.ch](https://www.fusiger.ch) is designed and coded by me: [source lives here](https://github.com/BrunaFusiger/portfolio)
 - 🤖 AI-native in production: Figma MCP, Claude Code and Cursor are part of my daily workflow. AI multiplies the output; the decisions stay mine.
 
-**Stack:** Vue · Nuxt · TypeScript · UnoCSS · Tailwind · GSAP · Figma · Directus · PostHog
-
 [Portfolio](https://www.fusiger.ch) · [LinkedIn](https://www.linkedin.com/in/brunafusiger) · bruna.fusiger@gmail.com
